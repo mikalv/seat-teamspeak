@@ -107,7 +107,7 @@ class TeamspeakConnectorServiceProvider extends AbstractSeatPlugin
      */
     public function getPackageRepositoryUrl(): string
     {
-        return 'https://github.com/warlof/seat-teamspeak';
+        return 'https://github.com/mikalv/seat-teamspeak';
     }
 
     /**
