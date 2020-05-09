@@ -131,7 +131,7 @@ class TeamspeakConnectorServiceProvider extends AbstractSeatPlugin
      */
     public function getPackagistVendorName(): string
     {
-        return 'warlof';
+        return 'mikalv';
     }
 
     /**
